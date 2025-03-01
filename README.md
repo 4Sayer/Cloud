@@ -63,6 +63,4 @@ Cloud ☁️ es una herramienta poderosa y fácil de usar para gestionar archivo
 
 Si el cliente tiene alguna pregunta o necesita personalizaciones adicionales, estoy disponible para hacer ajustes y garantizar que la aplicación cumpla con todas sus expectativas.
 
----
-
-¡Listo! Ahora solo tienes que copiar esta información en los campos correspondientes en GitHub y tu repositorio estará listo para usar. ¡Buena suerte con tu proyecto, y no dudes en preguntar si necesitas más ayuda!
+Discord: xsayer
